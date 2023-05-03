@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Virtual Assitant using Python**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MEAN**
 
 - 💬 Ask me about **Javascript**
 
