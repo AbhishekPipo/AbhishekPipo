@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Virtual Assitant using Python**
 
-- 🌱 I’m currently learning **MEAN,MEVN & MERM**
+- 🌱 I’m currently learning **MEAN,MEVN & MERN**
 
 - 💬 Ask me about **Javascript**
 
